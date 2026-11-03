@@ -5,12 +5,12 @@
 
 <h1 align="center"><img width="200" height="68" alt="image" src="https://github.com/user-attachments/assets/4da7c724-3604-4dcc-961b-3919892ed974" /><img width="214" height="122" alt="image" src="https://github.com/user-attachments/assets/70b16061-198c-4e81-996a-6c356d4d0f2c" /><img width="200" height="68" alt="image" src="https://github.com/user-attachments/assets/ea2fda3d-4c20-48c9-9236-3c9d7d1262f4" />
 
-  <div align="center">
-    
-<p align="center">  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+10&size=30&duration=4000&pause=100&color=20e6d8&center=true&vCenter=true&width=435&lines=18+,+he/she+,artist,+see+you+soon!;letty's+github+:P"/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=30&duration=.00001&pause=100000&color=20E6D8&center=true&width=414&lines=%C2%B7+%C2%B7+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+%EA%92%B0%E0%A6%8C%C2%B7%E2%9C%A6%C2%B7%E0%BB%92%EA%92%B1+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+%C2%B7+%C2%B7" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+10&size=30&duration=4000&pause=100&color=20e6d8&center=true&vCenter=true&width=435&lines=18+,+he/she+,artist,+see+you+soon!;letty's+github+:P"/>
 
-<img width="361" height="234" alt="image" src="https://64.media.tumblr.com/3017c127ec551ba9f4b3fa45b5d1b6ca/511739cc98f1d7f8-13/s400x600/fc86d32993a5412a38f705832cb0841c36d6031c.gifv" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=16&duration=.00001&pause=100000&color=20E6D8&center=true&width=414&lines=+%C2%B7+%C2%B7++%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+%EA%92%B0%E0%A6%8C%C2%B7%E2%9C%A6%C2%B7%E0%BB%92%EA%92%B1+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+%C2%B7+%C2%B7" alt="Typing SVG" /></a>
+<div align="center">
+
+  <div align="center"><img width="361" height="234" alt="image" src="https://64.media.tumblr.com/3017c127ec551ba9f4b3fa45b5d1b6ca/511739cc98f1d7f8-13/s400x600/fc86d32993a5412a38f705832cb0841c36d6031c.gifv" />
 
     
   <div align="center"><img width="120" height="19" alt="image" src=https://64.media.tumblr.com/d26ec8777752f16f5373fe65e48572ee/7770075a270faf86-23/s100x200/d1e53ca00586b8e18428abeec62e7a71199d0ac0.pnj />
@@ -29,4 +29,5 @@
   <div align="center">
 
     
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=30&duration=.00001&pause=100000&color=20E6D8&center=true&width=414&lines=%C2%B7+%C2%B7+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+%EA%92%B0%E0%A6%8C%C2%B7%E2%9C%A6%C2%B7%E0%BB%92%EA%92%B1+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+%C2%B7+%C2%B7" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=16&duration=.00001&pause=100000&color=20E6D8&center=true&width=414&lines=+%C2%B7+%C2%B7++%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+%EA%92%B0%E0%A6%8C%C2%B7%E2%9C%A6%C2%B7%E0%BB%92%EA%92%B1+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+%C2%B7+%C2%B7" alt="Typing SVG" /></a>
+<div align="center">
